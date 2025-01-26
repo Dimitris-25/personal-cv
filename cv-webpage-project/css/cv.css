@@ -1,0 +1,25 @@
+.cf-profile-pic{
+    width: 70px;
+    height: auto;
+    object-fit: cover;
+}
+
+.cf-contact-info .col-md-4 {
+    word-wrap: break-word;
+    max-width: 100%; /* Βεβαιώσου ότι το κείμενο δε θα υπερβαίνει το container */
+  }
+
+  .cf-section-title {
+    font-size: 1.5rem;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    display: inline-block;
+    margin-bottom: 20px;
+  }
+
+  .cf-contact-info{
+    margin-right: 8px;
+  }
+
+
+  
